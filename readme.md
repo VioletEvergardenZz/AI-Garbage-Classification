@@ -62,6 +62,6 @@ pip install torch torchvision Pillow
 ### 注意事项
 - 确保训练数据和测试数据的存放路径和文件命名正确。
 - 如需修改训练数据路径或其他配置，可在 `garbage_classification.ipynb` 文件中进行相应修改。
-- 在 GitHub 上，`.ipynb` 文件（Jupyter Notebook 文件）通常无法直接显示，因为 GitHub 并不 natively 支持 Jupyter Notebook 的渲染。不过，你可以使用一些在线服务，如  nbviewer（https://nbviewer.jupyter.org/）来显示Jupyter Notebook 文件。只需将 GitHub 中 `.ipynb` 文件的链接复制到 nbviewer 中即可在网页上查看该 Notebook。
+- 在 GitHub 上，`.ipynb` 文件（Jupyter Notebook 文件）通常无法直接显示，因为 GitHub 并不 natively 支持 Jupyter Notebook 的渲染。不过，你可以使用一些在线服务，如  nbviewer(https://nbviewer.jupyter.org/)来显示Jupyter Notebook 文件。只需将 GitHub 中 `.ipynb` 文件的链接复制到 nbviewer 中即可在网页上查看该 Notebook。
 ### 总结
 本项目通过深度学习模型实现了对垃圾图片的自动分类，旨在提高垃圾分类的准确性和效率，为环境保护事业贡献力量。
